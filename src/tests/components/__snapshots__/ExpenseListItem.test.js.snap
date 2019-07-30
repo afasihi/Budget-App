@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ExoenseList with expenses 1`] = `
+<div>
+  <NavLink
+    to="/edit/1"
+  >
+    <h3>
+      Gum
+    </h3>
+  </NavLink>
+  <p>
+     amount is 
+    195
+     created at 
+    0
+  </p>
+</div>
+`;
