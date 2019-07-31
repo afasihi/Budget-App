@@ -10,10 +10,9 @@ exports[`should render ExoenseList with expenses 1`] = `
     </h3>
   </NavLink>
   <p>
-     amount is 
-    195
-     created at 
-    0
+    $1.95
+    -
+    January 1st, 1970
   </p>
 </div>
 `;
